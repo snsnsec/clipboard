@@ -1,0 +1,272 @@
+body{
+  text-align: center;
+  margin: 0px;
+  font-family: 'Roboto Mono', sans;
+  color: #758184;
+
+}
+h2{
+  font-family: 'Saira Semi Condensed'sans-serif, ;
+
+}
+.logo-img{
+  width: 100px;
+  height: 100px;
+  margin: 80px auto;
+}
+.header-img{
+  position: absolute;
+  top:0;
+  width: 768px;
+}
+.header-text{
+  width: 30%;
+  margin: 30px auto;
+}
+.computer-img{
+  margin-left: 50px;
+  margin-right: 70px;
+  float: left;
+  height: 24rem;
+  width: 30rem;
+}
+.quick-head{
+  padding-top: 50px;
+}
+.middle-container{
+
+  margin: 0 auto;
+  height: 400px;
+}
+.search-container{
+  text-align: left;
+  padding-left: 30px;
+}
+.search-text{
+  width: 70%;
+}
+.access-text{
+  width: 50%;
+  margin: 20px auto;
+}
+.devices-img{
+  height: 400px;
+  width: 600px;
+}
+.track-text{
+  width: 30%;
+  margin: 40px auto;
+}
+.supercharge{
+  margin: 50px auto;
+}
+.sniplet-container{
+  height: 100px;
+}
+.blacklist-img{
+  position: absolute;
+  left:200px;
+}
+.text-img{
+  position: absolute;
+}
+.preview-img{
+  position: absolute;
+  right: 200px;
+}
+.blacklist-span{
+ position: absolute;
+ left: 150px;
+ padding: 20px 0;
+}
+.text-span{
+  position: absolute;
+  left: 700px;
+  padding: 20px 0;
+}
+.preview-span{
+  position: absolute;
+  right: 150px;
+  padding: 20px 0;
+}
+.blacklist-text{
+  display: inline-block;
+  width: 25%;
+  padding: 0 30px;
+  position: relative;
+  right: 140px;
+}
+.text-text{
+  display: inline-block;
+  width: 25%;
+  position: relative;
+  bottom: 16px;
+}
+.preview-text{
+  display: inline-block;
+  width: 25%;
+  position: relative;
+  left: 130px;
+  bottom: 16px;
+}
+.image-container{
+margin: 50px;
+height: 5rem;
+}
+.google-img{
+  position: absolute;
+  left:8rem;
+}
+.ibm-img{
+  position: absolute;
+  left:25rem;
+}
+.microsoft-img{
+  position: absolute;
+  left:41rem;
+}
+.hp-img{
+  position: absolute;
+  right:26rem;
+}
+.vector-img{
+  position: absolute;
+  right:8rem;
+}
+.clipboard{
+  margin-bottom: 50px;
+}
+.clipboard-text{
+  width: 60%;
+  margin: 30px auto;
+}
+.bottom-container{
+  background-color: #ededed;
+  padding: 50px 0 20px;
+}
+.bottom-copyright{
+  width: 40px;
+  height: 40px;
+  float: left;
+  position: relative;
+  left: 5rem;
+  bottom: 12px;
+}
+.faqs{
+  padding: 5px 60px;
+  position: relative;
+  right: 10rem;
+  bottom: 16px;
+}
+.contact{
+  padding: 5px 32px;
+  position: relative;
+  right: 262px;
+}
+.facebook-icon{
+  position: relative;
+  left: 400px;
+  bottom: 20px;
+}
+.twitter-icon{
+position: relative;
+left: 425px;
+bottom: 20px;
+}
+.insta-icon{
+  position: relative;
+  left: 450px;
+  bottom: 20px;
+}
+.iosButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #39d437), color-stop(1, #e5e81e) );
+	background:-moz-linear-gradient( center top, #39d437 5%, #e5e81e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#39d437', endColorstr='#e5e81e');
+	background-color:#39d437;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:2px solid #e65f44;
+	display:inline-block;
+	color:#c92200;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:157px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2ac74c;
+  margin-right: 30px;
+}
+.iosButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e5e81e), color-stop(1, #39d437) );
+	background:-moz-linear-gradient( center top, #e5e81e 5%, #39d437 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e5e81e', endColorstr='#39d437');
+	background-color:#e5e81e;
+}.iosButton:active {
+	position:relative;
+	top:1px;
+}
+.macButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #2012e3), color-stop(1, #18f5f1) );
+	background:-moz-linear-gradient( center top, #2012e3 5%, #18f5f1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2012e3', endColorstr='#18f5f1');
+	background-color:#2012e3;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:2px solid #e65f44;
+	display:inline-block;
+	color:#c92200;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:157px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2ac74c;
+  padding-left: 10px;
+}
+.macButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #18f5f1), color-stop(1, #2012e3) );
+	background:-moz-linear-gradient( center top, #18f5f1 5%, #2012e3 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#18f5f1', endColorstr='#2012e3');
+	background-color:#18f5f1;
+}.macButton:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
+/* This button was generated using CSSButtonGenerator.com */
